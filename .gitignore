@@ -1,0 +1,11 @@
+.DS_Store
+.vscode/
+__pycache__/
+*.pyc
+data/
+rbf-network-benchmark/data/
+rbf-network-benchmark/output/
+*.png
+pendigits.tra
+pendigits.tes
+pendigits.names
